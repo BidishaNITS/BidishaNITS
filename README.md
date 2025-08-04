@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there! 👋 I'm Bidisha </h2>
 
 <h2 align="left"> Technological Interests 😎 </h2>
-<p><img align="right" alt="Girl coding" width="250" src="https://media.giphy.com/media/3oriO0OEd9QIDdllQM/giphy.gif"></p>
+![Anime Girl Typing](https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif)
 
 - Cyber Security & DevOps
 - AI in Infrastructure
