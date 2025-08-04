@@ -2,6 +2,7 @@
 
 <h2 align="left"> Technological Interests 😎 </h2>
 <p><img align="right" alt="Anime girl typing" width="250" src="https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif"></p>
+
 - Cyber Security & DevOps
 - AI in Infrastructure
 
