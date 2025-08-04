@@ -2,6 +2,7 @@
 
 <h2 align="left"> Technological Interests 😎 </h2>
 
+<p><img align="right" alt="Working" width="250" src="https://user-images.githubusercontent.com/37767537/230788671-04b5a1e9-cff3-4436-b737-d9615c8d2c6c.gif"></p> 
 
 - Cyber Security & DevOps
 - AI in Infrastructure
